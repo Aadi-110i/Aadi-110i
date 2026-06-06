@@ -7,13 +7,6 @@
   </a>
 </p>
 
-<!-- Terminal Profile Views Counter -->
-<p align="center">
-  <a href="https://github.com/Aadi-110i">
-    <img src="https://profile-counter.glitch.me/Aadi-110i/count.svg" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -55,21 +48,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadi-110i&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aadi-110i's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi-110i&layout=compact&theme=tokyonight&hide_border=true" alt="Aadi-110i's Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi-110i&theme=tokyonight&hide_border=true" alt="Aadi-110i's GitHub Streak" />
-</div>
 
 ---
 
