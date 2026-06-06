@@ -1,14 +1,14 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Aadarsh Sharma</h1>
+<h1 align="left">Hi 👋, I'm Aadarsh Sharma</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Aadi-110i">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js,+React,+Node.js;Building+Scalable+Web+Apps;AI-Powered+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js,+React,+Node.js;Building+Scalable+Web+Apps;AI-Powered+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Terminal Profile Views Counter -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/Aadi-110i">
     <img src="https://counter.kuber.studio/Aadi-110i/hacker/count.svg" alt="Profile Views" />
   </a>
