@@ -7,10 +7,10 @@
   </a>
 </p>
 
-<!-- Terminal Profile Views Counter -->
+<!-- Reliable Profile Views Counter -->
 <p align="center">
   <a href="https://github.com/Aadi-110i">
-    <img src="https://profile-counter.glitch.me/Aadi-110i/count.svg" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Aadi-110i&label=Profile%20Visits&color=000000&style=for-the-badge&logo=gnometerminal" alt="Profile Views" />
   </a>
 </p>
 
