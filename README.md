@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="left">Hi 👋, I'm Aadarsh Sharma</h1>
+<h1 align="left">Hi, I'm Aadarsh Sharma</h1>
 
 <p align="left">
   <a href="https://github.com/Aadi-110i">
@@ -16,18 +16,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently building awesome things with **Next.js, React, Node.js, and PostgreSQL**
-- 🌱 I’m currently exploring **Scalable Architectures & AI Integrations**
-- 👯 I’m looking to collaborate on **Open Source Web and AI projects**
-- 💬 Ask me about **Frontend Magic, Backend Architecture, and Database Management**
-- 📫 How to reach me: **aadarsh13sharma@gmail.com**
-- ⚡ Fun fact: **I can transform coffee into scalable code! ☕➡️💻**
+I don't just write code — I architect systems that handle real business logic, edge cases, and the kind of precision that breaks when you use a float instead of a decimal.
+
+Full-stack developer working with Next.js, React, Node.js, and PostgreSQL. I care about auth that's actually secure, databases that scale, and UIs that don't lie to the user.
+
+Currently building in public and looking for problems worth solving. Open to collaborating on anything ambitious.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Frontend:**
 <p align="left">
@@ -59,7 +58,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aadarsh-sharma11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
