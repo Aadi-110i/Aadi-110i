@@ -7,6 +7,13 @@
   </a>
 </p>
 
+<!-- Terminal Profile Views Counter -->
+<p align="center">
+  <a href="https://github.com/Aadi-110i">
+    <img src="https://profile-counter.glitch.me/Aadi-110i/count.svg" alt="Profile Views" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
