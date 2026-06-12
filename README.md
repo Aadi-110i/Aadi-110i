@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/Aadi-110i">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js,+React,+Node.js;Building+Scalable+Web+Apps;AI-Powered+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js,+React,+Node.js+Three.js;Building+Scalable+Web+Apps;AI-Powered+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
